@@ -1,0 +1,22 @@
+To start with
+
+2: The purpose of this research project was to point out some of the risks facing electronic hospital records. 
+
+
+say AFTER 4th: 
+ Due to several Cybercrimes or Internet attack for example Ramsomware, hospitals and service providers are required to pay ransom to get back the lost data or records from criminals. The use of blockchain to enhance security of electronic hospital records is expected to create balance in hospitals in relation of EHR security. The project will focus on the benefits as well as the opportunities offered by the blockchain technology in regarding the protection of data and information stored in Electronic hospital records (Vanderhook, & Abraham, 2017). 
+
+8.Through the EHR systems, the healthcare industry has improved the quality of services they offer to patients and have improved responsiveness, which means faster delivery of services (Blobel, 2018). 
+
+10 : Conclusion : To Conclude
+
+I can say that, it has been established that the use of blockchain technology on electronic health records is the most suitable solution as it allows for the conversion of the data formats from different types to a singular standard format thus allowing interoperability (Ekblaw et al.,2016,).
+
+After Last Point in Slide 10. 
+
+Also, the technology itself provides privacy in addition to security and thus combat the two biggest threats that face electronic health records. 
+
+12. Well every research is an experience in itself and there are certain points that I think could always be improved.
+
+
+
