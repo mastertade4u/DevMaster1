@@ -1,3 +1,5 @@
 This is first code file for git hub
 Testing
 Testing
+I Love Python Programming.
+I Love Gaming and Singing
